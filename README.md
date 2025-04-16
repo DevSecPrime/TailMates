@@ -1,4 +1,4 @@
-# TailMates
+# DoggyDate
 Pet mating 
 
 ## 🗃️ Database Schema
